@@ -1,2 +1,2 @@
-# RPS-7
-RPS-7 game Model done in Pytorch
+# RPS-5
+RPS-5 game Model done in Pytorch
